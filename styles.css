@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRda5q_1Dg41oScmQY35vuNKOIuuxZgqgiPA&usqp=CAU');
+    background-size: cover;
+    height: 100vh;
+    object-fit: contain;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+a{
+    color: #fff;
+    font-weight: bold;
+}
+
